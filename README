@@ -1,0 +1,12 @@
+An HTTP-based server
+
+View the instructions to run this server from the command line.
+Once server is running, open browser, and connect to localhost:3000.
+
+Instructions to Run from Command Line (cd into the directory, pa1):
+
+  $ make server
+  $ ./server <Configuration File>
+
+To Clean:
+  delete the executable file, server
